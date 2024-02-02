@@ -279,6 +279,8 @@ body {
   padding: 20px;
   display: flex;
   align-items: center;
+  height:190px;
+  width:190px;
 }
 
 .inner2 h4 {
@@ -600,7 +602,10 @@ body {
   align-items: center;
   justify-content: flex-start;
 }
-
+.inner2-row1 img{
+	height:90px;
+	width:108px;
+}
 .inner2-row1 p {
   font-size: 20px;
   color: #333030;
@@ -623,7 +628,10 @@ body {
   align-items: center;
   justify-content: flex-start;
 }
-
+.inner2-row2 img{
+	height:90px;
+	width:108px;
+}
 .inner2-row2 p {
   font-size: 20px;
   color: #333030;
@@ -645,7 +653,10 @@ body {
   align-items: center;
   justify-content: flex-start;
 }
-
+.inner2-row3 img{
+	height:90px;
+	width:108px;
+}
 .inner2-row3 p {
   font-size: 20px;
   color: #333030;
@@ -1443,7 +1454,7 @@ body {
   margin-right: 50px;
 }
 
-img {
+.media img {
   width: 50px;
   height: 50px;
 }
